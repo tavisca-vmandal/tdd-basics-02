@@ -1,6 +1,6 @@
 # Console based calculator
 
-## Console Calculator
+## Description
 
 You have to implement a console based calculator which can perform binary operations on decimal numbers. Your calculator will use the console as its 
 display and the keyboard as its key pad. As the user presses keys on the keyboard, the display should update as per the keys pressed. The specifications
@@ -18,7 +18,11 @@ for your implementation are -
 
 
 The basic starter code for your solution has been provided along with the wiring of the calcuator to the console. You can add your implementation accordingly. 
+Your solution should contain the following - 
 
+1. A clean object oriented implementation of the Calcuator. Create additional classes as required for your solution and object model.
+2. Unit tests for testing your implemention.
+3. Integration with Travis CI for continous integration.
 
 ### Examples
 
